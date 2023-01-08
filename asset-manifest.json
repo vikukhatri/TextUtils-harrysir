@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils-harrysir/static/css/main.2543b9d3.css",
+    "main.js": "/TextUtils-harrysir/static/js/main.0159fd62.js",
+    "static/js/787.719ec76d.chunk.js": "/TextUtils-harrysir/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextUtils-harrysir/index.html",
+    "main.2543b9d3.css.map": "/TextUtils-harrysir/static/css/main.2543b9d3.css.map",
+    "main.0159fd62.js.map": "/TextUtils-harrysir/static/js/main.0159fd62.js.map",
+    "787.719ec76d.chunk.js.map": "/TextUtils-harrysir/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.0159fd62.js"
+  ]
+}
